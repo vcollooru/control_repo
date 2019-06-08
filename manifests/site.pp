@@ -1,5 +1,5 @@
 node default {
-  file {'/apps/puppet/README':
+  file {'/root/README':
     ensure => file,
   }
 }
